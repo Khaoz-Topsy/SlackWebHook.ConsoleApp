@@ -1,2 +1,2 @@
-# SlackWebHook.ConsoleApp
-small console app to send messages to Slack
+# SlackWebHookConsoleApp
+This is a simple console application that can send a message to a Slack channel webhook
