@@ -243,3 +243,7 @@ ModelManifest.xml
 
 TennoDex.Droid.Java/
 *.rar
+
+
+*.ico
+*Desktop.ini
